@@ -1,4 +1,5 @@
-I'm not the author of this driver. 
+I'm not the author of this driver.
+
 This is a modified instruction for Fedora
 
 ```
