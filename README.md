@@ -26,5 +26,6 @@ add_drivers+=" aziokbd "
 ```
 sudo depmod -a 
 sudo dracut --force
+
 sudo lsinitrd /boot/initramfs-6.1.9-200.fc37.x86_64.img | grep -i aziokbd   # check
 ```
