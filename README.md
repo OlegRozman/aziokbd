@@ -1,5 +1,5 @@
 I'm not the author of this driver. 
-This is a modified version for Fedora.
+This is a modified instruction for Fedora
 
 ```
 sudo dnf install dkms kernel-devel kernel-headers
